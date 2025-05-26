@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FU_KI8\\PRN232\\Slot4PRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\dto\\companyformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\dto\\companyformanipulationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\data\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\data\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\data\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\data\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|d:\\fu_ki8\\prn232\\slot4prn\\slot4prn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{047F178C-9EDD-48F1-B5F4-B7E63D21EA05}|Slot4PRN\\Slot4PRN.csproj|solutionrelative:slot4prn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\DTO\\EmployeeDto.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "Slot4PRN\\DTO\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyForManipulationDto.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\CompanyForManipulationDto.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\DTO\\CompanyForManipulationDto.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\CompanyForManipulationDto.cs",
+              "RelativeToolTip": "Slot4PRN\\DTO\\CompanyForManipulationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\DTO\\CompanyDto.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\DTO\\CompanyDto.cs",
+              "RelativeToolTip": "Slot4PRN\\DTO\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Data\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\Data\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Data\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Slot4PRN\\Data\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Program.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\Program.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Program.cs",
+              "RelativeToolTip": "Slot4PRN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:31:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Slot4PRN\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:37:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Data\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Slot4PRN\\Data\\CompanyConfiguration.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\Data\\CompanyConfiguration.cs",
+              "RelativeToolTip": "Slot4PRN\\Data\\CompanyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\appsettings.json",
+              "RelativeDocumentMoniker": "Slot4PRN\\appsettings.json",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot4PRN\\Slot4PRN\\appsettings.json",
+              "RelativeToolTip": "Slot4PRN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T05:31:10.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

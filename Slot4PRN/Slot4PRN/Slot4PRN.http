@@ -1,0 +1,6 @@
+@Slot4PRN_HostAddress = http://localhost:5014
+
+GET {{Slot4PRN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
