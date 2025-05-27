@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\controllers\\gadgetsodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\controllers\\gadgetsodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\models\\gadgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\models\\gadgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\odatamodelbuilderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\odatamodelbuilderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\myworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\myworlddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|d:\\fu_ki8\\prn232\\slot5prndemo1\\slot5prndemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F6932C3-3C65-49DB-B474-56D549FB384B}|Slot5PRNDemo1\\Slot5PRNDemo1.csproj|solutionrelative:slot5prndemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GadgetsOdataController.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Controllers\\GadgetsOdataController.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\Controllers\\GadgetsOdataController.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Controllers\\GadgetsOdataController.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\Controllers\\GadgetsOdataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:57:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ODataModelBuilderConfig.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\ODataModelBuilderConfig.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\ODataModelBuilderConfig.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\ODataModelBuilderConfig.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\ODataModelBuilderConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:54:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\Program.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Program.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:47:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GadgetsController.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Controllers\\GadgetsController.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\Controllers\\GadgetsController.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Controllers\\GadgetsController.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\Controllers\\GadgetsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:49:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gadgets.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Models\\Gadgets.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\Models\\Gadgets.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\Models\\Gadgets.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\Models\\Gadgets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:39:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyWorldDbContext.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\MyWorldDbContext.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\MyWorldDbContext.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\MyWorldDbContext.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\MyWorldDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:41:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\WeatherForecast.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\WeatherForecast.cs",
+              "RelativeToolTip": "Slot5PRNDemo1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:58:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\appsettings.json",
+              "RelativeDocumentMoniker": "Slot5PRNDemo1\\appsettings.json",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\Slot5PRNDemo1\\Slot5PRNDemo1\\appsettings.json",
+              "RelativeToolTip": "Slot5PRNDemo1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T03:37:49.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

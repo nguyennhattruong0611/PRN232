@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Slot5PRNDemo1.props" />
+</Project>
