@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FU_KI8\\PRN232\\DemoOData2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|d:\\fu_ki8\\prn232\\demoodata2\\demoodata2\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B45CAFC-7536-44D4-9179-B3AD94AFF931}|DemoOData2\\DemoOData2.csproj|solutionrelative:demoodata2\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Controllers\\PressesController.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "DemoOData2\\Controllers\\PressesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:12:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "DemoOData2\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:11:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\BookStoreContext.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\BookStoreContext.cs",
+              "RelativeToolTip": "DemoOData2\\BookStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:58:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Models\\Category.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Category.cs",
+              "RelativeToolTip": "DemoOData2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:56:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Models\\Address.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Address.cs",
+              "RelativeToolTip": "DemoOData2\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:55:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Models\\Book.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Book.cs",
+              "RelativeToolTip": "DemoOData2\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:55:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Press.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Press.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Models\\Press.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Models\\Press.cs",
+              "RelativeToolTip": "DemoOData2\\Models\\Press.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:55:56.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Program.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\Program.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\Program.cs",
+              "RelativeToolTip": "DemoOData2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:59:27.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\DataSource.cs",
+              "RelativeDocumentMoniker": "DemoOData2\\DataSource.cs",
+              "ToolTip": "D:\\FU_KI8\\PRN232\\DemoOData2\\DemoOData2\\DataSource.cs",
+              "RelativeToolTip": "DemoOData2\\DataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:09:10.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
