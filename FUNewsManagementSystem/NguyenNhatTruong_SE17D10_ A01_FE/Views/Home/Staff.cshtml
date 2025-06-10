@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Bảng điều khiển Staff";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .staff-dashboard-container {
+        max-width: 1200px;
+        margin: 30px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .dashboard-list {
+        list-style: none;
+        padding: 0;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+        .dashboard-list li {
+            margin-bottom: 15px;
+        }
+
+        .dashboard-list a {
+            display: block;
+            padding: 15px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+            .dashboard-list a:hover {
+                background-color: #0056b3;
+            }
+
+            .dashboard-list a::before {
+                margin-right: 10px;
+            }
+</style>
+
+<div class="staff-dashboard-container">
+    <h2>Chào mừng bạn đến với Bảng điều khiển của Staff</h2>
+
+    <ul class="dashboard-list">
+        <li>
+            <a href="/Staff/CategoryList">📁 Quản lý chuyên mục</a>
+        </li>
+        <li>
+            <a href="/Staff/AllNews">📰 Quản lý bài viết</a>
+        </li>
+        <li>
+            <a href="/Staff/MyNews?staffId=@Context.Session.GetInt32("id")">📝 Bài viết của tôi</a>
+        </li>
+        <li>
+            <a href="/Staff/Profile?staffId=@Context.Session.GetInt32("id")">👤 Thông tin cá nhân</a>
+        </li>
+    </ul>
+</div>
