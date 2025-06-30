@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yUknWsi2bCG2ogu/Eq1pRlNYK5EYkc7EMVZZgrV0HC4=",
+  "Source": "FUNewsManagementSystem",
+  "BasePath": "_content/FUNewsManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FUNewsManagementSystem\\wwwroot",
+      "Source": "FUNewsManagementSystem",
+      "ContentRoot": "C:\\Users\\Admin\\Downloads\\ASM1\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\wwwroot\\",
+      "BasePath": "_content/FUNewsManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Downloads\\ASM1\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\wwwroot\\css\\site.css",
+      "SourceId": "FUNewsManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Downloads\\ASM1\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\wwwroot\\",
+      "BasePath": "_content/FUNewsManagementSystem",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

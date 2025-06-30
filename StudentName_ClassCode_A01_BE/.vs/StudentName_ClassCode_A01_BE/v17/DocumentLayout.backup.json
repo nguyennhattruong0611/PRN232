@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\services\\service\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|solutionrelative:services\\service\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\tagviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\tagviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC82551-7566-4447-A34D-66075247FDF1}|Repositories\\Repositories.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\repositories\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC82551-7566-4447-A34D-66075247FDF1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\services\\service\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|solutionrelative:services\\service\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\services\\iservice\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|solutionrelative:services\\iservice\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\mapper\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\mapper\\tagprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\articleviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\articleviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\createtagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\createtagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\services\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|solutionrelative:services\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\updatetagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\updatetagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\services\\iservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F715A-5AFB-4F93-83A4-2EDE45E632A7}|Services\\Services.csproj|solutionrelative:services\\iservice\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\dto\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\funewsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08F8DA9-493D-4707-AF4E-915916D82E91}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04679A8-D6B1-4725-B73A-562082E8C1A6}|DataAccessObjects\\DataAccessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\dataaccessobjects\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04679A8-D6B1-4725-B73A-562082E8C1A6}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|d:\\learning\\fpt-7\\prn232\\assignment\\asm1\\studentname_classcode_a01_be\\businessobjects\\configs\\adminaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16BD3-C034-4032-89A4-E6D867070C90}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\configs\\adminaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\ArticleService.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\ArticleService.cs",
+              "RelativeToolTip": "Services\\Service\\ArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:53:07.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\TagsController.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:41:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Repositories\\Repository\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\TagRepository.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Repositories\\Repository\\TagRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\TagRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:41:04.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Tag.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\Models\\Tag.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:40:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagProfile.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Mapper\\TagProfile.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Mapper\\TagProfile.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Mapper\\TagProfile.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Mapper\\TagProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:38:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTagDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\CreateTagDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\CreateTagDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\CreateTagDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\CreateTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:37:53.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticleViewDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\ArticleViewDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\ArticleViewDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\ArticleViewDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\ArticleViewDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:37:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagViewDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\TagViewDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\TagViewDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\TagViewDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\TagViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:37:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\TagService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\TagService.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\TagService.cs",
+              "RelativeToolTip": "Services\\Service\\TagService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:36:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\IService\\ITagService.cs",
+              "RelativeDocumentMoniker": "Services\\IService\\ITagService.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\IService\\ITagService.cs",
+              "RelativeToolTip": "Services\\IService\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:36:45.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateTagDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\UpdateTagDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\UpdateTagDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\UpdateTagDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\UpdateTagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:36:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:27:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\AccountService.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\Service\\AccountService.cs",
+              "RelativeToolTip": "Services\\Service\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:27:19.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\IService\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IService\\IAccountService.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\Services\\IService\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IService\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:27:00.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\ChangePasswordDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:25:25.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\DTO\\UpdateProfileDto.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:25:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\ArticlesController.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:35:46.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:53:05.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\DataAccessObjects\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataSeeder.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\DataAccessObjects\\DataSeeder.cs",
+              "RelativeToolTip": "DataAccessObjects\\DataSeeder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:55:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminAccountSettings.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\Configs\\AdminAccountSettings.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Configs\\AdminAccountSettings.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\Configs\\AdminAccountSettings.cs",
+              "RelativeToolTip": "BusinessObjects\\Configs\\AdminAccountSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:54:57.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Learning\\FPT-7\\PRN232\\Assignment\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\Program.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:54:41.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

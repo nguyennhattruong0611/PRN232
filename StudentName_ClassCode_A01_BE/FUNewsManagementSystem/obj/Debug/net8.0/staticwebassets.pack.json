@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM1\\ASM1\\StudentName_ClassCode_A01_BE\\FUNewsManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FUNewsManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FUNewsManagementSystem.props",
+      "PackagePath": "build\\FUNewsManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FUNewsManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\FUNewsManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FUNewsManagementSystem.props",
+      "PackagePath": "buildTransitive\\FUNewsManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

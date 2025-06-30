@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FUNewsManagementSystem/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CeiYVfpNH1ZJX7Hf66TxtakzTeZHqxOah/TzRFiJOjQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"436"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CeiYVfpNH1ZJX7Hf66TxtakzTeZHqxOah/TzRFiJOjQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Jun 2025 20:39:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FUNewsManagementSystem/css/site.tvx6rb33js.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tvx6rb33js"},{"Name":"integrity","Value":"sha256-CeiYVfpNH1ZJX7Hf66TxtakzTeZHqxOah/TzRFiJOjQ="},{"Name":"label","Value":"_content/FUNewsManagementSystem/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"436"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CeiYVfpNH1ZJX7Hf66TxtakzTeZHqxOah/TzRFiJOjQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Jun 2025 20:39:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
