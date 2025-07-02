@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "foiCtYPfY4g=",
+  "dgSpecHash": "T0iBUetq5Vc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\ASM1\\ASM1\\StudentName_ClassCode_A01_BE\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "D:\\FU_KI8\\PRN232\\Code\\StudentName_ClassCode_A01_BE\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

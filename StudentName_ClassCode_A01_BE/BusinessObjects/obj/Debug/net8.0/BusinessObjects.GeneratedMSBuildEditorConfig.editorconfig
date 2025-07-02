@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BusinessObjects
-build_property.ProjectDir = C:\Users\Admin\Downloads\ASM1\ASM1\StudentName_ClassCode_A01_BE\BusinessObjects\
+build_property.ProjectDir = D:\FU_KI8\PRN232\Code\StudentName_ClassCode_A01_BE\BusinessObjects\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
